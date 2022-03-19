@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-Learning react. This application its data from [http://www.omdbapi.com]
+Learning react. This application fetchesits data from [http://www.omdbapi.com].
+
+Display movies with their titles. 
+![image](https://user-images.githubusercontent.com/56592834/159119740-5a8134c6-8703-41b0-bfb0-cdc9a87710f4.png)
 
 ## Available Scripts
 
